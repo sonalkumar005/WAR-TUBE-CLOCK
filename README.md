@@ -1,2 +1,32 @@
-# WAR-TUBE-CLOCK
-💕War Tube Clock is a retro-inspired digital clock that mimics the look and glow of vintage Nixie tubes. Crafted using pure HTML, CSS, and JavaScript, this browser-based clock offers a nostalgic aesthetic with modern web technologies. It's lightweight, responsive, and perfect for showcasing creative front-end UI design.
+# ⏱️ War Tube Clock
+
+A visually striking, retro-style digital clock inspired by Nixie tubes — built using HTML, CSS, and JavaScript.
+
+![Clock Screenshot](https://your-image-link-if-any)
+![alt text](<Screenshot 2025-07-27 024716.png>)
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 Live Demo
+
+[Click here to view the live demo](http://127.0.0.1:5500/index.html) 
+
+---
+
+## 📁 Project Structure
+
